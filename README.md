@@ -17,3 +17,5 @@ Deployment - AWS
 ### a. New Environment
 ### b. Mini Project Structure - setup.py
 ### c. Structure - requirements.py
+
+## 2. Src folder and build the package
